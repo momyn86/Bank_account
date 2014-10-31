@@ -14,7 +14,7 @@ You can do a variety of functions which you can clearly see on running it, as it
 the default username is administrator and password is admin.
 
 I have removed the client-server(socket progamming) functionality for the time-being as I am going to implement a
-chatting interface using JSP and serverlets.
+chatting interface using JSP and servlets.
 
 Feel free to mail me if you have any problems or want the socket programming code part.
 
