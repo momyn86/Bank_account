@@ -31,7 +31,7 @@ Enteries:  username (varchar), passwd (varchar), question (varchar), answer (var
 
 Table 2:
 
-Namre: tx_details
+Name: tx_details
 
 Enteries: uname (varchar), accno (varchar), operation (varchar), amt (varchar), balance (varchar), time1 (varchar), isnew (varchar)
 
